@@ -1,4 +1,3 @@
-```markdown
 # 🌱 React Basics: Quick Reference
 
 A concise summary of foundational React concepts based on the official documentation. Perfect for revisiting core ideas quickly as you learn.
@@ -103,4 +102,3 @@ A concise summary of foundational React concepts based on the official documenta
 ---
 
 🧠 Keep learning, keep building, and check the [React Docs](https://react.dev/) for deeper insights!
-```
